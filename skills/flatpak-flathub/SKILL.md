@@ -56,10 +56,6 @@ Use standard `flatpak-builder` directly for non-Flathub builds:
 flatpak-builder --force-clean --user --install --install-deps-from=flathub build-dir <manifest>
 ```
 
-## Flathub AI Policy
-
-Flathub documentation says submission pull requests must not be generated, opened, or automated using AI tools or agents, and low-quality or mostly AI-generated code is not allowed. Do not open a Flathub submission PR on behalf of the user. You may help analyze, explain, draft local changes, and produce checklists, but make it clear the human maintainer must review, own, and submit the work in accordance with current Flathub policy.
-
 ## Live Policy
 
 Flatpak and Flathub policies, runtime support windows, linter behavior, and submission rules change. For public submission guidance or anything that depends on the current rule, verify against the official docs before giving a final answer:
