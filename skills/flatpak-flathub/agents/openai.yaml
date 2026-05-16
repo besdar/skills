@@ -1,0 +1,4 @@
+interface:
+  display_name: "Flatpak & Flathub"
+  short_description: "Package, submit, and maintain Flatpak apps"
+  default_prompt: "Use $flatpak-flathub to package an app for Flathub and review the manifest."
