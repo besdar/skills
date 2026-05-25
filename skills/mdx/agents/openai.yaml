@@ -1,0 +1,4 @@
+interface:
+  display_name: "MDX"
+  short_description: "Build, migrate, and debug MDX projects"
+  default_prompt: "Use $mdx to integrate MDX into this project and refactor markdown content safely."

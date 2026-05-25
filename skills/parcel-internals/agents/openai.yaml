@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parcel Internals"
+  short_description: "Work with Parcel internals docs"
+  default_prompt: "Use $parcel-internals to investigate Parcel bundler, scope-hoisting, graph, or CI internals."
